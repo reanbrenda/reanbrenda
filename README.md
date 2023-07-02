@@ -11,7 +11,6 @@ Hi, i'm [Brenda Mukindia](), a passionate Developer and a freelance software eng
 i am also an open-source enthusiast . i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
 
 
-  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
   
 - 💼 any freelance work? do reach, [email](mailto:mukindia67@gmail.com) :)
 - 💬 ask me about anything, i am happy to help;
@@ -40,7 +39,7 @@ Bash         11 mins         ▒░░░░░░░░░░░░░░░░
 
 <!--END_SECTION:waka-->
 
-
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
 
 🚧 **my todoist stats:**
