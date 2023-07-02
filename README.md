@@ -1,4 +1,3 @@
-
 <a href="https://www.linkedin.com/in/brenda-kagendo/">
   <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
@@ -7,7 +6,7 @@
 
 <br />
 
-hi, i'm [Brenda Mukindia](), a passionate Developer and a freelance software engineer from Kenya. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build.
+Hi, i'm [Brenda Mukindia](), a passionate Developer and a freelance software engineer from Kenya. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build.
 
 i am also an open-source enthusiast . i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
 
@@ -41,7 +40,6 @@ Bash         11 mins         ▒░░░░░░░░░░░░░░░░
 
 <!--END_SECTION:waka-->
 
-if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 
 
 
